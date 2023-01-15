@@ -1,0 +1,25 @@
+Chapter 2: Setting Up Your RTL-SDR Dongle and Software
+
+Before you can start hacking with your RTL-SDR dongle, you'll need to set it up and install the necessary software. In this chapter, we'll walk you through the process of getting your dongle and software up and running so you can start receiving and decoding radio signals.
+
+First, you'll need to purchase an RTL-SDR dongle. There are many available online, and most can be purchased for less than $20. It's important to note that not all RTL-SDR dongles are created equal, and some may have better performance than others. Look for a dongle with a high sampling rate and a wide frequency range for the best results.
+
+Once you have your dongle, you'll need to install the necessary software. The most popular software for working with RTL-SDR dongles is called SDR# (SDR Sharp). It's a free, open-source software that can be used to receive and decode a wide range of radio signals. You can download the latest version of SDR# from the official website.
+
+After you've downloaded and installed SDR#, plug in your RTL-SDR dongle and open the software. You should be prompted to select your dongle from a list of available devices. Once you've selected your dongle, you'll be ready to start receiving and decoding radio signals.
+
+Another software that is widely used is called GQRX, it's also a free and open-source software, it's more versatile than SDR# and it's compatible with multiple SDR devices, not only the RTL-SDR dongle. It also has a built-in waterfall display and a variety of different demodulation options.
+
+In addition to SDR# or GQRX, you may also want to install other software such as DSD (Digital Speech Decoder) for decoding digital voice and audio signals, and PlanePlotter for tracking aircraft with ADS-B. These software can be found on their respective websites.
+
+Once you've installed all the necessary software, you'll be ready to start receiving and decoding radio signals. In the next chapter, we'll cover some basic concepts of RF and radio signals, so you'll have a better understanding of what you're listening to.
+
+In this chapter, we have covered:
+
+How to purchase an RTL-SDR dongle
+How to install SDR# and GQRX software
+How to connect and select the RTL-SDR dongle on the software
+The optional software to use with the RTL-SDR dongle.
+
+
+
