@@ -1,0 +1,14 @@
+Chapter 4: Receiving and Decoding FM Radio
+
+FM radio is a popular and widely used form of radio communication that can be easily received and decoded with an RTL-SDR dongle. In this chapter, we will cover the basics of FM radio, how to tune into FM radio stations with the RTL-SDR dongle using SDR# software, and how to decode and listen to FM radio. We will also cover some advanced techniques for better FM reception.
+
+FM radio, short for frequency modulation, is a type of analog modulation that is used to transmit audio signals. In FM radio, the frequency of the carrier signal is modulated with the audio signal, resulting in a signal that can be received and decoded to produce the original audio. FM radio is typically used to transmit music and talk radio, and is found in the frequency range of 87.5 to 108 MHz.
+
+To receive FM radio with the RTL-SDR dongle, you will need to have SDR# software installed on your computer. Once you have the software installed, you can connect the RTL-SDR dongle to your computer and open the software. You should be prompted to select your dongle from a list of available devices.
+
+Once you've selected your dongle, you'll need to set the frequency range to the FM band (87.5 - 108 MHz) using the ‘RF’ button on the top of the software and adjust the bandwidth to narrow down the range to the specific station you want to listen to. You can use the software's frequency scanner to find the FM stations in your area by clicking on the 'FM' button on the top of the software and then tune into the desired station by adjusting the frequency using the frequency bar on the bottom of the software.
+
+Once you have tuned into the desired FM station, you can use the software's built-in audio demodulator to decode the audio and listen to the station. You can also use other audio software such as VLC player to listen to the audio by clicking on the 'Audio' button on the top of the software, then select the option 'Audio Output
+
+
+
