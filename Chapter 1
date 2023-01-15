@@ -1,0 +1,27 @@
+Chapter 1: Introduction to RTL-SDR and Software Defined Radio
+
+Software Defined Radio (SDR) is a revolutionary technology that allows for the digitization of radio signals in order to be processed by a computer. This technology has been around for quite some time, but it has only been in recent years that it has become more widely available and accessible to the general public. One of the most popular and cost-effective ways to get started with SDR is through the use of the RTL-SDR dongle.
+
+The RTL-SDR dongle is a small USB device that contains a digital tuner and an analog-to-digital converter. It allows you to receive a wide range of radio frequencies, from 24 MHz to 1.7 GHz. This makes it a versatile tool for a variety of applications, including listening to FM radio, tracking aircraft with Automatic Dependent Surveillance-Broadcast (ADS-B), decoding digital voice and audio, and more.
+
+One of the main advantages of the RTL-SDR dongle is its low cost. It can be easily purchased online for less than $20, making it accessible to hobbyists and professionals alike. Additionally, there is a large community of users who have developed software and tutorials for using the RTL-SDR dongle. This makes it easy to get started with SDR and find support and resources for your projects.
+
+The RTL-SDR dongle can be used to receive a wide range of signals, including those used in television, radio, and satellite communication. With the right software and a little bit of knowledge, you can use the RTL-SDR dongle to decode and analyze a variety of signals, including those used in cell phone communication and GPS navigation.
+
+The RTL-SDR dongle can be used to track the location of aircraft and boats using Automatic Dependent Surveillance-Broadcast (ADS-B) and Automatic Identification System (AIS) respectively. It can also be used to decode digital voice and audio signals, such as digital voice P25, DMR, and D-Star. With the right software and a little bit of knowledge, you can also use the RTL-SDR dongle to analyze and decode GSM signals.
+
+In this book, we will be diving into the world of RTL-SDR and SDR in general. We will cover everything from setting up your RTL-SDR dongle and software, to decoding and analyzing different types of radio signals. We will start with the basics of RF and radio signals and work our way up to advanced projects and hacks. Whether you are a beginner or a professional, this book will provide you with the knowledge and resources to start hacking with RTL-SDR.
+
+We will cover the following topics in this book:
+
+Setting up your RTL-SDR Dongle and Software
+Basic concepts of RF and radio signals
+Receiving and decoding FM Radio
+Tracking Aircraft with ADS-B
+Decoding POCSAG and FLEX Paging
+Analyzing GSM Signals
+Tracking ships with AIS
+Decoding digital voice and audio
+Advanced RTL-SDR Hacks and Projects
+Conclusion and Further Resources
+By the end of this book, you will have a solid understanding of RTL-SDR and SDR in general, and be able to use your RTL-SDR dongle to decode and analyze a wide range of radio signals. You will also have the knowledge and resources to take on more advanced projects and hacks. So, let's get started and explore the RTL-SDR!
